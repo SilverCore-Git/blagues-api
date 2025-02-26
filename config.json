@@ -1,0 +1,17 @@
+
+
+{
+
+    "host": {
+        "name": "blagues.api.silverdium.fr",
+        "origin": [
+            "blagues.api.silverdium.fr"
+        ]
+    },
+
+
+    "apib": {
+        "url": "https://raw.githubusercontent.com/Blagues-API/blagues-api/refs/heads/dev/blagues.json"
+    }
+
+}
