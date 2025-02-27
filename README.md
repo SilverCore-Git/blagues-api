@@ -1,7 +1,7 @@
 # l'api d'une api
 
 ## [GitHub de blagues api](https://github.com/Blagues-API/blagues-api/)
-## [SiteWeb de blagues api]([https://github.com/Blagues-API/blagues-api/](https://www.blagues-api.fr/))
+## [SiteWeb de blagues api](https://blagues.api.silverdium.fr)
 
 ---
 
