@@ -129,7 +129,7 @@ async def on_ready():
         print(f"Erreur lors de la synchronisation des commandes : {e}")
 
     await bot.change_presence(
-        activity=discord.Game(name="blagues API de draftMan")
+        activity = discord.CustomActivity(name='Blagues API de DraftMan')
     )
 
 @bot.tree.command(name="blague", description="Récupère une blague avec sélection interactive")
